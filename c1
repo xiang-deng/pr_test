@@ -1,2 +1,4 @@
 c1
-conflict 2
+conflict 1 resolved
+conflict 2 resolved
+conflict 3 resolved
